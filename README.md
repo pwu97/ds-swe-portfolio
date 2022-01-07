@@ -27,3 +27,7 @@ Click here to read the full paper.
 Code: [https://github.com/pwu97/pass-interference](https://github.com/pwu97/pass-interference)
 
 This project was coded using R.
+
+3. [CMU Sustainability Initiative](https://cmusustainability.shinyapps.io/sdg-mapping/)
+
+While working as a Sustainability Data Analytics Intern at CMU, I researched and applied data analytical tools to map CMU’s curriculum, research, and club activities to the United Nations 17 Sustainable Development Goals (SDGs). We used techniques such as tf-idf, tf-idf weighted Word2Vec, average Word2Vec, Word2Vec, PCA, and t-SNE to generate keywords for each of the 17 Sustainable Development Goals (SDGs). I then built the R package [SDGMapR](https://github.com/CMUSustainability/SDGmapR) to map text to the SDGs based on simple keyword appearance within text. The link above is the app I built that maps CMU's classes and department to the SDGs. Given SDG1 (No Poverty), the app can generate the most relevant CMU classes that target this SDG based on the keywords we had defined. 
